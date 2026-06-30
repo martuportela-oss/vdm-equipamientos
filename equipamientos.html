@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Equipamientos VDM Insumos: mobiliario, línea sanitaria, transporte sanitario y equipamiento de espuma para limpieza.">
+  <meta name="theme-color" content="#5a16f0">
+  <title>Equipamientos | VDM Insumos</title>
+  <link rel="preconnect" href="https://vdminsumos.com">
+  <link rel="preconnect" href="https://www.emmsainoxidables.com.ar">
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="index.html#home" aria-label="VDM Insumos">
+      <img src="https://vdminsumos.com/wp-content/uploads/2025/02/cropped-LOGO-VDM.png" alt="VDM Insumos" width="360" height="189">
+    </a>
+
+    <button class="menu-button" type="button" data-menu-button aria-expanded="false" aria-controls="site-nav">
+      <span></span>
+      <span></span>
+      <span></span>
+      <span class="sr-only">Abrir menú</span>
+    </button>
+
+    <nav class="site-nav" id="site-nav" data-nav aria-label="Principal">
+      <a href="index.html#home">Home</a>
+      <a href="productos-industriales.html">Productos Industriales</a>
+      <a href="equipamientos.html" aria-current="page">Equipamientos</a>
+      <a href="index.html#consultoria">Consultoría y diseño</a>
+      <a href="index.html#contacto">Contacto</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="equip-hero">
+      <div class="equip-hero__content">
+        <p>Equipamientos industriales en acero inoxidable para ordenar, higienizar y optimizar espacios productivos. Seleccionamos soluciones funcionales para mobiliario, línea sanitaria, transporte interno y limpieza con espuma.</p>
+        <div class="hero-actions">
+          <a class="primary-button" href="#equip-title">Ver categorías</a>
+          <a class="secondary-button" href="index.html#contacto">Consultar</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="equip-catalog" aria-labelledby="equip-title">
+      <div class="section-heading">
+        <p>Catálogo VDM</p>
+        <h1 id="equip-title">Equipamientos</h1>
+      </div>
+
+      <div class="equip-tools">
+        <label class="industrial-search equip-search">
+          <span class="sr-only">Buscar equipamiento</span>
+          <input type="search" id="equip-search" placeholder="Buscar producto o categoría" autocomplete="off">
+        </label>
+        <div class="equip-tabs" id="equip-tabs" aria-label="Categorías de equipamiento"></div>
+      </div>
+
+      <div class="equip-summary">
+        <p id="equip-description"></p>
+        <p id="equip-count" aria-live="polite"></p>
+      </div>
+
+      <div class="equip-grid" id="equip-grid"></div>
+      <p class="empty-state" id="equip-empty" hidden>No encontramos equipamientos con esa búsqueda.</p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>Copyright © 2026 | Powered by VDM Insumos</p>
+  </footer>
+
+  <script src="assets/js/equipamientos-data.js" defer></script>
+  <script src="assets/js/equipamientos.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Productos industriales VDM Insumos: bombas, linea neumatica, automatizacion, sensores, materiales electricos y accesorios industriales.">
+  <meta name="theme-color" content="#5a16f0">
+  <title>Productos Industriales | VDM Insumos</title>
+  <link rel="preconnect" href="https://vdminsumos.com">
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="index.html#home" aria-label="VDM Insumos">
+      <img src="https://vdminsumos.com/wp-content/uploads/2025/02/cropped-LOGO-VDM.png" alt="VDM Insumos" width="360" height="189">
+    </a>
+
+    <button class="menu-button" type="button" data-menu-button aria-expanded="false" aria-controls="site-nav">
+      <span></span>
+      <span></span>
+      <span></span>
+      <span class="sr-only">Abrir menu</span>
+    </button>
+
+    <nav class="site-nav" id="site-nav" data-nav aria-label="Principal">
+      <a href="index.html#home">Home</a>
+      <a href="productos-industriales.html" aria-current="page">Productos Industriales</a>
+      <a href="equipamientos.html">Equipamientos</a>
+      <a href="index.html#consultoria">Consultoría y diseño</a>
+      <a href="index.html#contacto">Contacto</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="industrial-hero">
+      <div class="industrial-hero__content">
+        <p>Nos distinguimos por mantener una <strong>comunicación directa y personalizada</strong> con cada comprador, asegurando el soporte técnico adecuado en cada operación. Contamos con un equipo de profesionales <strong>especializados</strong> para brindar asesoramiento experto y soluciones rápidas a cualquier consulta.</p>
+        <p>En <strong>VDM INSUMOS</strong>, nos comprometemos a ser su mejor aliado industrial, garantizando <strong>eficiencia, calidad y precios competitivos.</strong></p>
+        <div class="hero-actions">
+          <a class="primary-button" href="#industrial-title">Ver catálogo</a>
+          <a class="secondary-button" href="equipamientos.html">Ver equipamientos</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="industrial-catalog" aria-labelledby="industrial-title">
+      <div class="section-heading">
+        <p>Catálogo VDM</p>
+        <h1 id="industrial-title">Productos Industriales</h1>
+      </div>
+      <div class="industrial-tools">
+        <label class="industrial-search">
+          <span class="sr-only">Buscar producto industrial</span>
+          <input type="search" id="industrial-search" placeholder="Buscar producto o categoría" autocomplete="off">
+        </label>
+        <p id="industrial-count" aria-live="polite"></p>
+      </div>
+      <div class="accordion-list" id="industrial-accordion"></div>
+      <p class="empty-state industrial-empty" id="industrial-empty" hidden>No encontramos productos con esa búsqueda.</p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>Copyright © 2026 | Powered by VDM Insumos</p>
+  </footer>
+
+  <script src="assets/js/industrial-data.js" defer></script>
+  <script src="assets/js/industrial.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,170 @@
+window.VDM_EQUIPAMIENTOS_DATA = [
+  {
+    slug: 'mobiliario',
+    title: 'Mobiliario',
+    description: 'Mobiliario de acero inoxidable para espacios de trabajo, almacenamiento, lavado y preparación.',
+    items: [
+      { name: 'Carro de traslado', image: 'https://rivaderohnos.com.ar/wp-content/uploads/2026/01/Picsart_26-02-02_14-38-37-693-scaled.png', description: '10% descuento pago contado' },
+      { name: 'Estantería de 4 niveles perforada', image: 'https://rivaderohnos.com.ar/wp-content/uploads/2026/01/5.-Estanteria-4-niveles-1.png', description: '10% descuento pago contado' },
+      { name: 'Estantería de 4 niveles', image: 'https://rivaderohnos.com.ar/wp-content/uploads/2026/01/5.-Estanteria-4-niveles.png', description: '10% descuento pago contado' },
+      { name: 'Estantería de pared', image: 'https://rivaderohnos.com.ar/wp-content/uploads/2026/01/9.-Estanteria-scaled.jpg', description: '10% descuento pago contado' },
+      { name: 'Gabinete de pared', image: 'https://rivaderohnos.com.ar/wp-content/uploads/2026/01/16.-Gabinete-de-pared.jpg', description: '10% descuento pago contado' },
+      { name: 'Lavamanos accionamiento a rodilla con respaldo', image: 'https://rivaderohnos.com.ar/wp-content/uploads/2026/01/12.-Lavamanos-PUSH-accionamiento-a-rodilla-1-scaled.png', description: '10% descuento pago contado' },
+      { name: 'Lavamanos accionamiento a rodilla', image: 'https://rivaderohnos.com.ar/wp-content/uploads/2026/01/11.-Lavamanos-PUSH-accionamiento-a-rodilla-scaled.png', description: '10% descuento pago contado' },
+      { name: 'Lavamanos accionamiento a rodilla', image: 'https://rivaderohnos.com.ar/wp-content/uploads/2026/01/10.-Lavamanos-Accionamiento-A-Rodilla-scaled.jpg', description: '10% descuento pago contado' },
+      { name: 'Lavamanos de pie a pedal', image: 'https://rivaderohnos.com.ar/wp-content/uploads/2026/01/13.-Lavamanos-de-pie-a-pedal-1-scaled.png', description: '10% descuento pago contado' },
+      { name: 'Mesa con 3 cajones', image: 'https://rivaderohnos.com.ar/wp-content/uploads/2026/01/17.-Mesa-mas-3-cajonera-1-1-scaled.png', description: '10% descuento pago contado' },
+      { name: 'Mesa con estante', image: 'https://rivaderohnos.com.ar/wp-content/uploads/2026/01/2.-Mesa-con-estante-1.png', description: '10% descuento pago contado' },
+      { name: 'Mesa con zócalo, fregadero y bacha', image: 'https://rivaderohnos.com.ar/wp-content/uploads/2026/01/3.-Mesa-con-zocalo-fregadero-y-bacha.png', description: '10% descuento pago contado' },
+      { name: 'Mesa con zócalo, fregadero y doble bachas', image: 'https://rivaderohnos.com.ar/wp-content/uploads/2026/01/4.-Mesa-con-zocalo-fregadeo-y-2-bachas.png', description: '10% descuento pago contado' },
+      { name: 'Mesa gabinete con 3 cajones y 2 puertas', image: 'https://rivaderohnos.com.ar/wp-content/uploads/2026/01/14.-Mesa-Gabinete-3-Cajones-2-Puertas-scaled.png', description: '10% descuento pago contado' },
+      { name: 'Mesa lisa con estante y zócalo', image: 'https://rivaderohnos.com.ar/wp-content/uploads/2026/01/1.-Mesa-estante-y-zocalo-1.png', description: '10% descuento pago contado' },
+      { name: 'Mueble gabinete', image: 'https://rivaderohnos.com.ar/wp-content/uploads/2026/01/15.-Mueble-Gabinete-scaled.png', description: '10% descuento pago contado' }
+    ]
+  },
+  {
+    slug: 'linea-sanitaria',
+    title: 'Línea Sanitaria',
+    description: 'Productos de línea sanitaria incorporados sin imágenes con marca de agua.',
+    items: [
+      { name: 'Puerta 010', image: 'assets/images/linea-sanitaria/PUERTA 010.jpg', description: 'Línea Sanitaria' },
+      { name: 'Puerta 011', image: 'assets/images/linea-sanitaria/PUERTA 011.jpg', description: 'Línea Sanitaria' },
+      { name: 'PUERTA 012', image: 'assets/images/linea-sanitaria/PUERTA 012.jpg', description: 'Línea Sanitaria' },
+      { name: 'Puerta 013', image: 'assets/images/linea-sanitaria/PUERTA 013.jpg', description: 'Línea Sanitaria' },
+      { name: 'Puerta 014', image: 'assets/images/linea-sanitaria/PUERTA 014.jpg', description: 'Línea Sanitaria' },
+      { name: 'Puerta 015', image: 'assets/images/linea-sanitaria/PUERTA 015.jpg', description: 'Línea Sanitaria' },
+      { name: 'Puerta 016', image: 'assets/images/linea-sanitaria/PUERTA 016.jpg', description: 'Línea Sanitaria' },
+      { name: 'Puerta sanitaria simple', image: 'assets/images/linea-sanitaria/Puerta sanitaria simple.jpg', description: 'Línea Sanitaria' },
+      { name: 'Canalinas - Rejillas - Cámaras', image: 'assets/images/linea-sanitaria/Canalinas - Rejillas - Cámaras.jpg', description: 'Línea Sanitaria' },
+      { name: 'Puerta sanitaria doble', image: 'assets/images/linea-sanitaria/Puerta sanitaria doble.jpg', description: 'Línea Sanitaria' },
+      { name: 'Puerta sanitaria tabique', image: 'assets/images/linea-sanitaria/Puerta sanitaria tabique.jpg', description: 'Línea Sanitaria' },
+      { name: 'Armario doble - con estantes', image: 'assets/images/linea-sanitaria/Armario doble - con estantes.jpg', description: 'Línea Sanitaria' },
+      { name: 'Estanteria 012', image: 'assets/images/linea-sanitaria/Estanteria 012.jpg', description: 'Línea Sanitaria' },
+      { name: 'Estanteria 013', image: 'assets/images/linea-sanitaria/Estanteria 013.jpg', description: 'Línea Sanitaria' },
+      { name: 'Estanteria 014', image: 'assets/images/linea-sanitaria/Estanteria 014.jpg', description: 'Línea Sanitaria' },
+      { name: 'Estanteria con ruedas 015', image: 'assets/images/linea-sanitaria/Estanteria con ruedas 015.jpg', description: 'Línea Sanitaria' },
+      { name: 'Estanteria con plegado y corte 016', image: 'assets/images/linea-sanitaria/Estanteria con plegado y corte 016.jpg', description: 'Línea Sanitaria' },
+      { name: 'Cesto de basura - Portabolsa - Acero Inoxidable', image: 'assets/images/linea-sanitaria/Cesto de basura - Portabolsa - Acero Inoxidable.jpg', description: 'Línea Sanitaria' },
+      { name: 'Portabolsa - Acero inoxidables', image: 'assets/images/linea-sanitaria/Portabolsa - Acero inoxidables.jpg', description: 'Línea Sanitaria' },
+      { name: 'Cesto de basura - Acero inoxidable', image: 'assets/images/linea-sanitaria/Cesto de basura - Acero inoxidable.jpg', description: 'Línea Sanitaria' },
+      { name: 'Dispenser - Acero inoxidable', image: 'assets/images/linea-sanitaria/Dispenser - Acero inoxidable.jpg', description: 'Línea Sanitaria' },
+      { name: 'Campana de cocina 6300 x 2200 x 1000', image: 'assets/images/linea-sanitaria/Campana de cocina 6300 x 2200 x 1000.jpg', description: 'Línea Sanitaria' },
+      { name: 'Cesto de basura - Acero inoxidable', image: 'assets/images/linea-sanitaria/Cesto de basura - Acero inoxidable 2.jpg', description: 'Línea Sanitaria' },
+      { name: 'Portarollo - Acero inoxidable', image: 'assets/images/linea-sanitaria/Portarollo - Acero inoxidable.jpg', description: 'Línea Sanitaria' },
+      { name: 'Portaservilletas - Acero inoxidables', image: 'assets/images/linea-sanitaria/Portaservilletas - Acero inoxidables.jpg', description: 'Línea Sanitaria' },
+      { name: 'Dispenser de jabón - Acero inoxidables', image: 'assets/images/linea-sanitaria/Dispenser de jabón - Acero inoxidables.jpg', description: 'Línea Sanitaria' },
+      { name: 'Lockers', image: 'assets/images/linea-sanitaria/Lockers.jpg', description: 'Línea Sanitaria' }
+    ]
+  },
+  {
+    slug: 'equipamiento-sanitario',
+    title: 'Equipamiento Sanitario',
+    description: 'Equipamiento sanitario en acero inoxidable para higiene, circulación y control operativo.',
+    items: [
+      { name: 'Paso obligado con estacion de limpieza', image: 'assets/images/equipamiento-sanitario/Paso obligado con estacion de limpieza.jpg', description: 'Línea Sanitaria' },
+      { name: 'Paso obligado doble - Con estacion de limpieza', image: 'assets/images/equipamiento-sanitario/Paso obligado doble - Con estacion de limpieza.jpg', description: 'Línea Sanitaria' },
+      { name: 'Pasillo obligado', image: 'assets/images/equipamiento-sanitario/Pasillo obligado.jpg', description: 'Línea Sanitaria' },
+      { name: 'Lavadora de canastos', image: 'assets/images/equipamiento-sanitario/Lavadora de canastos.jpg', description: 'Línea Sanitaria' },
+      { name: 'Lava delantal simple - Acero Inoxidables', image: 'assets/images/equipamiento-sanitario/Lava delantal simple - Acero Inoxidables.jpg', description: 'Línea Sanitaria' },
+      { name: 'Lava delantal doble - Acero inoxidables', image: 'assets/images/equipamiento-sanitario/Lava delantal doble - Acero inoxidables.jpg', description: 'Línea Sanitaria' },
+      { name: 'Gabinete PC', image: 'assets/images/equipamiento-sanitario/Gabinete PC.jpg', description: 'Línea Sanitaria' },
+      { name: 'Canalinas - Rejillas - Cámaras', image: 'assets/images/equipamiento-sanitario/Canalinas - Rejillas - Cámaras.jpg', description: 'Línea Sanitaria' },
+      { name: 'Esterilizador móvil', image: 'assets/images/equipamiento-sanitario/Esterilizador móvil.jpg', description: 'Línea Sanitaria' },
+      { name: 'Rascasuelas simple', image: 'assets/images/equipamiento-sanitario/Rascasuelas simple.jpg', description: 'Línea Sanitaria' },
+      { name: 'Rascasuelas Combinado', image: 'assets/images/equipamiento-sanitario/Rascasuelas Combinado.jpg', description: 'Línea Sanitaria' },
+      { name: 'Rascasuelas combinado triple', image: 'assets/images/equipamiento-sanitario/Rascasuelas combinado triple.jpg', description: 'Línea Sanitaria' },
+      { name: 'Lavabotas económico', image: 'assets/images/equipamiento-sanitario/Lavabotas económico.jpg', description: 'Línea Sanitaria' },
+      { name: 'Esterilizador sierra cuarteo', image: 'assets/images/equipamiento-sanitario/Esterilizador sierra cuarteo.jpg', description: 'Línea Sanitaria' },
+      { name: 'Esterilizador UV 30 + 30', image: 'assets/images/equipamiento-sanitario/Esterilizador UV 30 + 30.jpg', description: 'Línea Sanitaria' },
+      { name: 'Esterilizador sierra de dividir', image: 'assets/images/equipamiento-sanitario/Esterilizador sierra de dividir.jpg', description: 'Línea Sanitaria' },
+      { name: 'Gabinete de PC abierto', image: 'assets/images/equipamiento-sanitario/Gabinete de PC abierto.jpg', description: 'Línea Sanitaria' },
+      { name: 'Rejillas', image: 'assets/images/equipamiento-sanitario/Rejillas.jpg', description: 'Línea Sanitaria' },
+      { name: 'Lavamanos 10 lts - Autonomos', image: 'assets/images/equipamiento-sanitario/Lavamanos 10 lts - Autonomos.jpg', description: 'Línea Sanitaria' },
+      { name: 'Lavamano 20lts - Autónomo', image: 'assets/images/equipamiento-sanitario/Lavamano 20lts - Autónomov.jpg', description: 'Línea Sanitaria' },
+      { name: 'Lavamano simple de amurar - Bacha chica', image: 'assets/images/equipamiento-sanitario/Lavamano simple de amurar - Bacha chica.jpg', description: 'Línea Sanitaria' },
+      { name: 'Lavamano simple de amurar - Bacha grande', image: 'assets/images/equipamiento-sanitario/Lavamano simple de amurar - Bacha grande.jpg', description: 'Línea Sanitaria' },
+      { name: 'Lavamano doble de amurar - Bacha chica', image: 'assets/images/equipamiento-sanitario/Lavamano doble de amurar - Bacha chica.jpg', description: 'Línea Sanitaria' },
+      { name: 'Lavamano doble de amurar - Bacha grande', image: 'assets/images/equipamiento-sanitario/Lavamano doble de amurar - Bacha grande.jpg', description: 'Línea Sanitaria' },
+      { name: 'Lavamano triple de amurar - Bacha chica', image: 'assets/images/equipamiento-sanitario/Lavamano triple de amurar - Bacha chica.jpg', description: 'Línea Sanitaria' },
+      { name: 'Lavamano triple de amurar - Bacha grande', image: 'assets/images/equipamiento-sanitario/Lavamano triple de amurar - Bacha grande.jpg', description: 'Línea Sanitaria' },
+      { name: 'Lavamano simple con pedestal - Bacha Chica', image: 'assets/images/equipamiento-sanitario/Lavamano simple con pedestal - Bacha Chica.jpg', description: 'Línea Sanitaria' },
+      { name: 'Lavamano simple con pedestal - Bacha grande', image: 'assets/images/equipamiento-sanitario/Lavamano simple con pedestal - Bacha grande.jpg', description: 'Línea Sanitaria' },
+      { name: 'Lavamano doble con pedestal', image: 'assets/images/equipamiento-sanitario/Lavamano doble con pedestal.jpg', description: 'Línea Sanitaria' },
+      { name: 'Lavamano triple con pedestal', image: 'assets/images/equipamiento-sanitario/Lavamano triple con pedestal.jpg', description: 'Línea Sanitaria' },
+      { name: 'Batea de desinfección', image: 'assets/images/equipamiento-sanitario/Batea de desinfección.jpg', description: 'Línea Sanitaria' },
+      { name: 'MEZCLADOR AGUA VAPOR', image: 'assets/images/equipamiento-sanitario/MEZCLADOR AGUA VAPOR.jpg', description: 'Línea Sanitaria' }
+    ]
+  },
+  {
+    slug: 'transporte-sanitario',
+    title: 'Línea Transporte Sanitario',
+    description: 'Carros y soluciones de traslado en acero inoxidable para uso sanitario e industrial.',
+    items: [
+      { name: 'Carro de cuelga Eco', image: 'assets/images/transporte-sanitario/Carro de cuelga Eco.jpg', description: 'Línea Transporte Inoxidable' },
+      { name: 'Carro de cuelga - 3 Niveles', image: 'assets/images/transporte-sanitario/Carro de cuelga - 3 Niveles.jpg', description: 'Línea Transporte Inoxidable' },
+      { name: 'Carro de cuelga - 4 niveles', image: 'assets/images/transporte-sanitario/Carro de cuelga - 4 niveles.jpg', description: 'Línea Transporte Inoxidable' },
+      { name: 'Carro frigorifico', image: 'assets/images/transporte-sanitario/Carro frigorifico.jpg', description: 'Línea Transporte Inoxidable' },
+      { name: 'Carro de cuelga ECO - Con/Sin bandeja', image: 'assets/images/transporte-sanitario/Carro de cuelga ECO - Con-Sin bandeja.jpg', description: 'Línea Transporte Inoxidable' },
+      { name: 'Carro portabandeja', image: 'assets/images/transporte-sanitario/Carro portabandeja.jpg', description: 'Línea Transporte Inoxidable' },
+      { name: 'Carro doble para hamburguesas', image: 'assets/images/transporte-sanitario/Carro doble para hamburguesas.jpg', description: 'Línea Transporte Inoxidable' },
+      { name: 'Carro para secaderos - Acero Inoxidable', image: 'assets/images/transporte-sanitario/Carro para secaderos - Acero Inoxidable.jpg', description: 'Línea Transporte Inoxidable' },
+      { name: 'Carro ganchero', image: 'assets/images/transporte-sanitario/Carro ganchero.jpg', description: 'Línea Transporte Inoxidable' },
+      { name: 'Carro normalizado industrial - 200LTS', image: 'assets/images/transporte-sanitario/Carro normalizado industrial - 200LTS.jpg', description: 'Línea Transporte Inoxidable' },
+      { name: 'Carro normalizado ECO - 200LTS', image: 'assets/images/transporte-sanitario/Carro normalizado ECO - 200LTS.jpg', description: 'Línea Transporte Inoxidable' },
+      { name: 'Carro para desmenuzadora', image: 'assets/images/transporte-sanitario/Carro para desmenuzadora.jpg', description: 'Línea Transporte Inoxidable' },
+      { name: 'Carro normalizado con manija alta', image: 'assets/images/transporte-sanitario/Carro normalizado con manija alta.jpg', description: 'Línea Transporte Inoxidable' },
+      { name: 'Carro normalizado 300lts', image: 'assets/images/transporte-sanitario/Carro normalizado 300lts.jpg', description: 'Línea Transporte Inoxidable' },
+      { name: 'Carro normalizado 400lts', image: 'assets/images/transporte-sanitario/Carro normalizado 400lts.jpg', description: 'Línea Transporte Inoxidable' },
+      { name: 'Zorra estilo carretilla', image: 'assets/images/transporte-sanitario/Zorra estilo carretilla.jpg', description: 'Línea Transporte Inoxidable' },
+      { name: 'Carro de hamburguesera', image: 'assets/images/transporte-sanitario/Carro de hamburguesera.jpg', description: 'Línea Transporte Inoxidable' },
+      { name: 'Carro para media res', image: 'assets/images/transporte-sanitario/Carro para media res.jpg', description: 'Línea Transporte Inoxidable' },
+      { name: 'Carro plataforma', image: 'assets/images/transporte-sanitario/Carro plataforma.jpg', description: 'Línea Transporte Inoxidable' },
+      { name: 'Carro plataforma con bandeja', image: 'assets/images/transporte-sanitario/Carro plataforma con bandeja.jpg', description: 'Línea Transporte Inoxidable' },
+      { name: 'Carro para garrafa - Personalizado', image: 'assets/images/transporte-sanitario/Carro para garrafa - Personalizado.jpg', description: 'Línea Transporte Inoxidable' },
+      { name: 'Elevador de carro móvil', image: 'assets/images/transporte-sanitario/Elevador de carro móvil.jpg', description: 'Línea Transporte Inoxidable' },
+      { name: 'Zorra para movimiento', image: 'assets/images/transporte-sanitario/Zorra para movimiento.jpg', description: 'Línea Transporte Inoxidable' },
+      { name: 'Carro reforzado', image: 'assets/images/transporte-sanitario/Carro reforzado.jpg', description: 'Línea Transporte Inoxidable' },
+      { name: 'Carro para tambores de 200lts', image: 'assets/images/transporte-sanitario/Carro para tambores de 200lts.jpg', description: 'Línea Transporte Inoxidable' },
+      { name: 'Carro para reinspección de visceras', image: 'assets/images/transporte-sanitario/Carro para reinspección de visceras.jpg', description: 'Línea Transporte Inoxidable' },
+      { name: 'Carro para decomiso - Acero Inoxidable', image: 'assets/images/transporte-sanitario/Carro para decomiso - Acero Inoxidable.jpg', description: 'Línea Transporte Inoxidable' },
+      { name: 'Carro de traslado para bandejas apilables', image: 'assets/images/transporte-sanitario/Carro de traslado para bandejas apilables.jpg', description: 'Línea Transporte Inoxidable' },
+      { name: 'Carro para ollas', image: 'assets/images/transporte-sanitario/Carro para ollas.jpg', description: 'Línea Transporte Inoxidable' },
+      { name: 'Tornillos transportadores', image: 'assets/images/transporte-sanitario/Tornillos transportadores.jpg', description: 'Línea Transporte Inoxidable' },
+      { name: 'Zorra para transporte vísceras', image: 'assets/images/transporte-sanitario/Zorra para transporte vísceras.jpg', description: 'Línea Transporte Inoxidable' },
+      { name: 'Bandejas apilables', image: 'assets/images/transporte-sanitario/Bandejas apilables.jpg', description: 'Línea Transporte Inoxidable' },
+      { name: 'Carro para ropa - Chico', image: 'assets/images/transporte-sanitario/Carro para ropa - Chico.jpg', description: 'Línea Transporte Inoxidable' },
+      { name: 'Carro para ropa - Grande', image: 'assets/images/transporte-sanitario/Carro para ropa - Grande.jpg', description: 'Línea Transporte Inoxidable' },
+      { name: 'Carro porta bolsa - Móvil', image: 'assets/images/transporte-sanitario/Carro porta bolsa - Móvil.jpg', description: 'Línea Transporte Inoxidable' },
+      { name: 'Porta bolsa fijo', image: 'assets/images/transporte-sanitario/Porta bolsa fijo.jpg', description: 'Línea Transporte Inoxidable' }
+    ]
+  },
+  {
+    slug: 'espuma-limpieza',
+    title: 'Equipamiento de Espuma - Limpieza',
+    description: 'Equipos móviles para aplicación de espuma, lavado e higiene industrial.',
+    items: [
+      {
+        name: 'Máquina de espuma móvil',
+        image: 'assets/images/espuma-limpieza-01.png',
+        description: 'Equipo móvil para aplicación de espuma en tareas de limpieza industrial.'
+      },
+      {
+        name: 'Equipo móvil de espuma y limpieza',
+        image: 'assets/images/espuma-limpieza-02.jpeg',
+        description: 'Sistema móvil de limpieza con manguera y estructura de acero inoxidable.'
+      }
+    ]
+  },
+  {
+    slug: 'lavadora-bandeja',
+    title: 'Lavadora de bandeja',
+    description: 'Equipo de lavado para bandejas.',
+    items: [
+      {
+        name: 'Lavadora de bandejas',
+        image: 'assets/images/lavadora-bandeja/Lavadora de bandejas.jpg',
+        description: 'Lavadora de bandejas'
+      }
+    ]
+  }
+];
