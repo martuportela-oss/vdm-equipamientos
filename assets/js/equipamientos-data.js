@@ -25,7 +25,7 @@ window.VDM_EQUIPAMIENTOS_DATA = [
   {
     slug: 'linea-sanitaria',
     title: 'Línea Sanitaria',
-    description: 'Productos de línea sanitaria incorporados sin imágenes con marca de agua.',
+    description: 'Productos de acero inoxidable para higiene, almacenamiento y operación sanitaria en entornos industriales.',
     items: [
       { name: 'Puerta 010', image: 'assets/images/linea-sanitaria/PUERTA 010.jpg', description: 'Línea Sanitaria' },
       { name: 'Puerta 011', image: 'assets/images/linea-sanitaria/PUERTA 011.jpg', description: 'Línea Sanitaria' },
