@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="700" viewBox="0 0 900 700" role="img" aria-labelledby="title desc">
+  <title id="title">Imagen de producto pendiente</title>
+  <desc id="desc">Representacion neutra para producto sin imagen autorizada.</desc>
+  <rect width="900" height="700" fill="#f7f7fb"/>
+  <rect x="90" y="80" width="720" height="540" rx="18" fill="#ffffff" stroke="#e2e5ee" stroke-width="2"/>
+  <path d="M300 445h300M340 405h220M380 365h140" stroke="#5a16f0" stroke-width="18" stroke-linecap="round"/>
+  <rect x="330" y="190" width="240" height="120" rx="16" fill="#f1ecff" stroke="#5a16f0" stroke-width="8"/>
+  <circle cx="384" cy="250" r="16" fill="#5a16f0"/>
+  <circle cx="516" cy="250" r="16" fill="#5a16f0"/>
+  <path d="M398 292c28 22 76 22 104 0" fill="none" stroke="#5a16f0" stroke-width="10" stroke-linecap="round"/>
+  <text x="450" y="555" text-anchor="middle" fill="#5f6673" font-family="Arial, sans-serif" font-size="30" font-weight="700">Imagen pendiente</text>
+</svg>
