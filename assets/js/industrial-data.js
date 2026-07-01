@@ -43,7 +43,7 @@ window.VDM_INDUSTRIAL_DATA = [
     title: 'Línea Neumática - Accesorios',
     items: [
       { name: 'Espiralado poliamida', image: 'wp-content/uploads/2025/02/Captura-de-pantalla-2025-02-27-231243.png' },
-      { name: 'Herramientas Compresor Aire, con Pistola Neumatica por Gravedad', image: 'wp-content/uploads/ac_assets/uc_content_carousel/party-bg-1024x768.jpg' },
+      { name: 'Herramientas Compresor Aire, con Pistola Neumatica por Gravedad', image: 'assets/images/producto-sin-marca.svg' },
       { name: 'Manguera De Poliuretano Para Aire Comprimido Azul 12mm', image: 'wp-content/uploads/2025/02/Captura-de-pantalla-2025-02-27-231443.png' }
     ]
   },
@@ -156,7 +156,7 @@ window.VDM_INDUSTRIAL_DATA = [
   {
     title: 'Temporizadores',
     items: [
-      { name: 'All-in-One Solution', image: 'wp-content/uploads/ac_assets/uc_content_carousel/agency1.jpg' }
+      { name: 'All-in-One Solution', image: 'assets/images/producto-sin-marca.svg' }
     ]
   },
   {
