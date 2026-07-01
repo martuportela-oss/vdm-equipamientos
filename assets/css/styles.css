@@ -93,21 +93,21 @@ a {
   min-height: 696px;
   background:
     linear-gradient(90deg, rgba(0, 0, 0, 0.78) 0%, rgba(0, 0, 0, 0.58) 42%, rgba(0, 0, 0, 0.2) 72%, rgba(0, 0, 0, 0.55) 100%),
-    url("../images/home-hero.jpeg") center / cover no-repeat;
+    url("../../wp-content/uploads/2025/03/two-workers-cleaning-machines-at-factory-2023-11-27-05-33-16-utc-2048x1365.jpg") center / cover no-repeat;
 }
 
 .industrial-hero {
   min-height: 682px;
   background:
     linear-gradient(90deg, rgba(8, 6, 18, 0.78), rgba(18, 13, 37, 0.5), rgba(18, 13, 37, 0.16)),
-    url("../images/industrial-hero.jpg") center / cover no-repeat;
+    url("../../wp-content/uploads/2025/03/male-holding-walkie-talkie-and-tablet-quality-cont-2025-03-06-16-05-19-utc-1024x682.png") center / cover no-repeat;
 }
 
 .equip-hero {
   min-height: 520px;
   background:
     linear-gradient(90deg, rgba(0, 0, 0, 0.72), rgba(0, 0, 0, 0.48), rgba(0, 0, 0, 0.18)),
-    url("../images/equipamientos-hero.jpg") center / cover no-repeat;
+    url("../../wp-content/uploads/2025/03/two-workers-cleaning-machines-at-factory-2023-11-27-05-33-16-utc-2048x1365.jpg") center / cover no-repeat;
 }
 
 .industrial-hero__content {
@@ -1344,21 +1344,21 @@ body {
   min-height: 720px;
   background:
     linear-gradient(90deg, rgba(8, 6, 18, 0.86) 0%, rgba(18, 13, 37, 0.64) 44%, rgba(18, 13, 37, 0.12) 76%, rgba(8, 6, 18, 0.36) 100%),
-    url("../images/home-hero.jpeg") center / cover no-repeat;
+    url("../../wp-content/uploads/2025/03/two-workers-cleaning-machines-at-factory-2023-11-27-05-33-16-utc-2048x1365.jpg") center / cover no-repeat;
 }
 
 .industrial-hero {
   min-height: 620px;
   background:
     linear-gradient(90deg, rgba(8, 6, 18, 0.82), rgba(18, 13, 37, 0.58), rgba(18, 13, 37, 0.2)),
-    url("../images/industrial-hero.jpg") center / cover no-repeat;
+    url("../../wp-content/uploads/2025/03/male-holding-walkie-talkie-and-tablet-quality-cont-2025-03-06-16-05-19-utc-1024x682.png") center / cover no-repeat;
 }
 
 .equip-hero {
   min-height: 500px;
   background:
     linear-gradient(90deg, rgba(8, 6, 18, 0.78), rgba(25, 17, 49, 0.5), rgba(25, 17, 49, 0.16)),
-    url("../images/equipamientos-hero.jpg") center / cover no-repeat;
+    url("../../wp-content/uploads/2025/03/two-workers-cleaning-machines-at-factory-2023-11-27-05-33-16-utc-2048x1365.jpg") center / cover no-repeat;
 }
 
 .hero__content {
