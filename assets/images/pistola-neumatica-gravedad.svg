@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">Pistola neumatica por gravedad</title>
+  <desc id="desc">Ilustracion tecnica de una pistola para aire comprimido con deposito superior.</desc>
+  <defs>
+    <linearGradient id="steel" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f6f7fb"/>
+      <stop offset=".45" stop-color="#b8bec9"/>
+      <stop offset="1" stop-color="#707887"/>
+    </linearGradient>
+    <linearGradient id="violet" x1="0" x2="1">
+      <stop offset="0" stop-color="#6621ff"/>
+      <stop offset="1" stop-color="#5014d8"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#111827" flood-opacity=".18"/>
+    </filter>
+  </defs>
+  <rect width="900" height="620" rx="34" fill="#ffffff"/>
+  <rect x="52" y="55" width="796" height="510" rx="28" fill="#f6f7fb"/>
+  <g filter="url(#shadow)">
+    <path d="M252 128h210c20 0 35 16 35 35v88H218v-88c0-19 15-35 34-35z" fill="url(#steel)" stroke="#7f8794" stroke-width="7"/>
+    <path d="M261 96h194c11 0 20 9 20 20v28H241v-28c0-11 9-20 20-20z" fill="#d8dce4" stroke="#7f8794" stroke-width="6"/>
+    <path d="M456 241h104c36 0 72 13 100 36l52 42-29 50-73-39H441z" fill="url(#steel)" stroke="#59616f" stroke-width="8"/>
+    <path d="M688 306h87c17 0 31 14 31 31v10c0 17-14 31-31 31h-98z" fill="url(#steel)" stroke="#59616f" stroke-width="8"/>
+    <path d="M180 286h285c17 0 31 14 31 31v31c0 17-14 31-31 31H180c-17 0-31-14-31-31v-31c0-17 14-31 31-31z" fill="url(#steel)" stroke="#59616f" stroke-width="8"/>
+    <path d="M376 367l88 5c10 1 18 8 21 18l55 161H407l-66-140c-8-17 3-38 35-44z" fill="url(#steel)" stroke="#59616f" stroke-width="8"/>
+    <path d="M452 402h36l30 89h-38z" fill="#eef0f5" opacity=".8"/>
+    <path d="M227 362l-56 128c-7 17 5 35 23 35h59c13 0 24-8 29-20l53-133z" fill="url(#steel)" stroke="#59616f" stroke-width="8"/>
+    <path d="M278 383l-45 105" fill="none" stroke="#f8fafc" stroke-width="9" stroke-linecap="round" opacity=".65"/>
+    <path d="M498 293h72c18 0 33 15 33 33v18c0 18-15 33-33 33h-72z" fill="url(#violet)" opacity=".96"/>
+    <circle cx="203" cy="333" r="22" fill="#4b5563"/>
+    <circle cx="203" cy="333" r="10" fill="#f8fafc"/>
+    <path d="M782 329l60-22v81l-60-23z" fill="#303846"/>
+  </g>
+  <text x="450" y="576" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#1f2937">Pistola neumatica por gravedad</text>
+</svg>
