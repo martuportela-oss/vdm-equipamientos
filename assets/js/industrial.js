@@ -125,6 +125,10 @@
       image.src = item.image;
       image.alt = item.name;
       image.loading = 'lazy';
+      image.onerror = function () {
+        image.onerror = null;
+        image.src = 'assets/images/producto-sin-marca.svg';
+      };
       link.href = getWhatsAppUrl(item.name);
       link.target = '_blank';
       link.rel = 'noopener';
