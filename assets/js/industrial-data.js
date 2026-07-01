@@ -126,7 +126,7 @@ window.VDM_INDUSTRIAL_DATA = [
   {
     title: 'PLC-HMI',
     items: [
-      { name: 'CoolMay', image: 'wp-content/uploads/2025/02/Captura-de-pantalla-2025-02-28-005033.png' }
+      { name: 'PLC/HMI CoolMay', image: 'assets/images/coolmay-plc-hmi.jpg' }
     ]
   },
   {
