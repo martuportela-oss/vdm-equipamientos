@@ -1,4 +1,4 @@
-:root {
+﻿:root {
   --blue: #5a16f0;
   --blue-dark: #3e0fb4;
   --text: #5f6673;
@@ -62,29 +62,6 @@ a {
   height: auto;
 }
 
-.brand-mark {
-  display: grid;
-  justify-items: center;
-  width: 154px;
-  line-height: 1;
-}
-
-.brand-mark__vdm {
-  color: var(--violet);
-  font-size: 42px;
-  font-weight: 900;
-  letter-spacing: 0;
-  line-height: 0.86;
-}
-
-.brand-mark__insumos {
-  margin-top: 8px;
-  color: #555866;
-  font-size: 16px;
-  font-weight: 850;
-  letter-spacing: 0;
-}
-
 .site-nav {
   display: flex;
   justify-content: flex-end;
@@ -116,21 +93,21 @@ a {
   min-height: 696px;
   background:
     linear-gradient(90deg, rgba(0, 0, 0, 0.78) 0%, rgba(0, 0, 0, 0.58) 42%, rgba(0, 0, 0, 0.2) 72%, rgba(0, 0, 0, 0.55) 100%),
-    url("../images/espuma-limpieza-02.jpeg") center / cover no-repeat;
+    url("../images/home-hero.jpeg") center / cover no-repeat;
 }
 
 .industrial-hero {
   min-height: 682px;
   background:
     linear-gradient(90deg, rgba(8, 6, 18, 0.78), rgba(18, 13, 37, 0.5), rgba(18, 13, 37, 0.16)),
-    url("../images/transporte-sanitario/Elevador de carro móvil.jpg") center / cover no-repeat;
+    url("../images/industrial-hero.jpg") center / cover no-repeat;
 }
 
 .equip-hero {
   min-height: 520px;
   background:
     linear-gradient(90deg, rgba(0, 0, 0, 0.72), rgba(0, 0, 0, 0.48), rgba(0, 0, 0, 0.18)),
-    url("../images/equipamiento-sanitario/Paso obligado con estacion de limpieza.jpg") center / cover no-repeat;
+    url("../images/equipamientos-hero.jpg") center / cover no-repeat;
 }
 
 .industrial-hero__content {
@@ -1367,21 +1344,21 @@ body {
   min-height: 720px;
   background:
     linear-gradient(90deg, rgba(8, 6, 18, 0.86) 0%, rgba(18, 13, 37, 0.64) 44%, rgba(18, 13, 37, 0.12) 76%, rgba(8, 6, 18, 0.36) 100%),
-    url("../images/espuma-limpieza-02.jpeg") center / cover no-repeat;
+    url("../images/home-hero.jpeg") center / cover no-repeat;
 }
 
 .industrial-hero {
   min-height: 620px;
   background:
     linear-gradient(90deg, rgba(8, 6, 18, 0.82), rgba(18, 13, 37, 0.58), rgba(18, 13, 37, 0.2)),
-    url("../images/transporte-sanitario/Elevador de carro móvil.jpg") center / cover no-repeat;
+    url("../images/industrial-hero.jpg") center / cover no-repeat;
 }
 
 .equip-hero {
   min-height: 500px;
   background:
     linear-gradient(90deg, rgba(8, 6, 18, 0.78), rgba(25, 17, 49, 0.5), rgba(25, 17, 49, 0.16)),
-    url("../images/equipamiento-sanitario/Paso obligado con estacion de limpieza.jpg") center / cover no-repeat;
+    url("../images/equipamientos-hero.jpg") center / cover no-repeat;
 }
 
 .hero__content {
@@ -2004,3 +1981,4 @@ h2 {
     min-height: 86px;
   }
 }
+

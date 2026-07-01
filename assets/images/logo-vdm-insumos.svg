@@ -2,8 +2,8 @@
   <title id="title">VDM Insumos</title>
   <desc id="desc">Logo de VDM Insumos en color violeta.</desc>
   <rect width="360" height="189" fill="none"/>
-  <g fill="none" fill-rule="evenodd">
-    <text x="180" y="78" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-size="68" font-weight="900" fill="#5f18f3">VDM</text>
-    <text x="180" y="122" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="800" fill="#555555">INSUMOS</text>
+  <g transform="translate(40 18)">
+    <path fill="#5F18F3" d="M0 0h32l26 58L84 0h31L71 86H45L0 0Zm118 0h60c32 0 58 17 58 43s-26 43-58 43h-60V0Zm31 24v38h29c15 0 27-7 27-19s-12-19-27-19h-29ZM246 0h29l28 39L331 0h29v86h-30V43l-22 31h-10l-22-31v43h-30V0Z"/>
+    <text x="139" y="127" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="800" fill="#56565D">INSUMOS</text>
   </g>
 </svg>
