@@ -1,0 +1,17 @@
+.hero {
+  background:
+    linear-gradient(90deg, rgba(8, 6, 18, 0.86) 0%, rgba(18, 13, 37, 0.64) 44%, rgba(18, 13, 37, 0.12) 76%, rgba(8, 6, 18, 0.36) 100%),
+    url("../images/home-hero.jpeg") center / cover no-repeat;
+}
+
+.industrial-hero {
+  background:
+    linear-gradient(90deg, rgba(8, 6, 18, 0.82), rgba(18, 13, 37, 0.58), rgba(18, 13, 37, 0.2)),
+    url("../images/industrial-hero.jpg") center / cover no-repeat;
+}
+
+.equip-hero {
+  background:
+    linear-gradient(90deg, rgba(8, 6, 18, 0.78), rgba(25, 17, 49, 0.5), rgba(25, 17, 49, 0.16)),
+    url("../images/equipamientos-hero.jpg") center / cover no-repeat;
+}
